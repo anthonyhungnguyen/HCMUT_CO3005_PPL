@@ -1,0 +1,13 @@
+
+        int foo(float a[],int c[] ){
+            int b;
+            return b % 999;
+        }
+        int[] fee(){
+            int a[99];
+            return a;
+        }
+        void main(){ 
+            foo(fee(),fee());
+        }
+        

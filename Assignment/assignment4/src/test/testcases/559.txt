@@ -1,0 +1,11 @@
+
+        int sum(int a, int b) {
+            return a + b;
+        }
+        void main() {
+            int a, b;
+            a = b = 1;
+            b = a + 1;
+            putInt(sum(a,b));
+        }
+        

@@ -1,0 +1,11 @@
+
+        void main() {
+            float a, b;
+            b = 2;
+            a = b = b + 1;
+
+            putFloatLn(a);
+            putFloatLn(b);
+        }
+
+        

@@ -1,0 +1,12 @@
+ int main(){
+                    int i, s, ro, k;
+	                for(i=1; i<=randomNumber; i+1){
+		            do {
+			            printString("* ");
+			            k+1;
+		            }
+                    while(k!=(2*i-1));
+		            printString("n");
+	            }
+	            return 0;
+                } 

@@ -1,0 +1,22 @@
+
+                    float nested(){
+                        int x;
+                        int y;
+                        do {
+                            do {
+                                do {
+                                    x = x * y;
+                                    return y;
+                                }
+                                while (y == x);
+                                return 888888;
+                            }
+                            while(x != y);
+                        }
+                        while(true);
+                        return x;
+                    }
+                    void main(){
+                        nested();
+                    }
+                    

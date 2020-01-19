@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(func),[],IntType,Block([CallExpr(Id(fcall),[])]))])

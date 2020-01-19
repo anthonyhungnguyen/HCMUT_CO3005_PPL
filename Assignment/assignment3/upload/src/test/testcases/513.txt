@@ -1,0 +1,13 @@
+
+        int foo(){
+            return 1;
+        }
+
+        int main(){ 
+            boolean a;
+            a = !true;
+            a = !!!!!!false;
+            foo();
+            return 1;
+        }
+        

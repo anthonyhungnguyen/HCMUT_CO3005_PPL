@@ -1,0 +1,15 @@
+
+        void main() {
+            foo();
+        }
+        int foo() {
+            int a;
+            if(a<10) {
+                do {
+                    return a;
+                } while(a>5);
+            } else {
+                return a;
+            }
+        }
+        

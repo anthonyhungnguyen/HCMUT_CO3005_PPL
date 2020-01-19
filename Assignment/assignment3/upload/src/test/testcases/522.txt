@@ -1,0 +1,15 @@
+
+        int foo(float a[],int c[] ){
+            int b;
+            return b % 999;
+        }
+        int[] fee(){
+            int a[99];
+            return a;
+        }
+        void main(){ 
+            int test[99];
+            float le[9];
+            test[fee()[fee()[fee()[99 % foo(le,test)]]]] = foo(le,test)---1;
+        }
+        

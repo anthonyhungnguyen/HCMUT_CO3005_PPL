@@ -1,0 +1,12 @@
+
+        float x2Float(float a) {
+            int i;
+            i = 2;
+            return a * i;
+        }
+        void main() {
+            int a;
+            a = 3;
+            putFloat(x2Float(a));
+        }
+        

@@ -1,0 +1,10 @@
+float i[234];
+        float main(float x, int n){ 
+            float res; 
+            for (i = 1; i < 5; i+1){ 
+                k[0] = k[7457] * -1; 
+                "somerandomstring" = "somerandomstring"; 
+                res = res + sign * fact; 
+            } 
+            return res;  
+        }

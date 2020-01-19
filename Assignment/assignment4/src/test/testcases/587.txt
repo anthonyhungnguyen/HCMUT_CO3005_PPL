@@ -1,0 +1,16 @@
+
+        void main() {
+            int a, b, c;
+            a = 1;
+            c = 2;
+            do {
+                b = 1;
+                do {
+                    c = c * 2;
+                    b = b + 1;
+                } while(b<5);
+                a = a+1;
+            } while(a<5);
+            putInt(c);
+        }
+        

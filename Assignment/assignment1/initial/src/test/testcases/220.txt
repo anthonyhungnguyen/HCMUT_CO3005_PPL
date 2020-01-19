@@ -1,0 +1,4 @@
+void sum(int arr[]) {
+            int m,n;
+            x = arr[2];
+        }

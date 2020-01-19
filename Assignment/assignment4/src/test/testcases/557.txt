@@ -1,0 +1,8 @@
+
+        void print1() {
+            putInt(1);
+        }
+        void main() {
+            print1();
+        }
+        

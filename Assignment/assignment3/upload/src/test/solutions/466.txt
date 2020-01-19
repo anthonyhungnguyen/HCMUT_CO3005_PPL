@@ -1,0 +1,1 @@
+Not Left Value: BinaryOp(*,Id(x),IntLiteral(888))

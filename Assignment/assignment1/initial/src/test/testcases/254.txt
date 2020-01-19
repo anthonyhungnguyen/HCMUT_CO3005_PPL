@@ -1,0 +1,12 @@
+
+           void input_data_to_array(int a[]) {
+               int i,N;
+               putStringLn("Number of elements: ");
+               getInt(N);
+               for(i= 0 ; i < N; i=i+1) {
+                   putStringLn("Enter element ",i," : ");
+                   putInt(a[i]);
+               }
+           }
+
+        

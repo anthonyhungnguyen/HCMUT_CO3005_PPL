@@ -1,0 +1,5 @@
+int array_test(){
+            int x[10];
+            x[0]="abc";
+            x[1]=-true+6/a;
+        }

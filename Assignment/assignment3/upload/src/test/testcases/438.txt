@@ -1,0 +1,15 @@
+
+                int foo(int x, int y){
+                    int a;
+                    boolean b;
+                    int c;
+                    for (a + 1; b; c){
+                        return 999;
+                    }
+                    break;
+                    return 888;
+                }
+                void main(){
+                    foo(8,9);
+                }
+                

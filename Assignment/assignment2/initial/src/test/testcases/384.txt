@@ -1,0 +1,4 @@
+
+        float i[100], motcailist[129], x;
+        int[] main(int i, string k[]) {}
+        

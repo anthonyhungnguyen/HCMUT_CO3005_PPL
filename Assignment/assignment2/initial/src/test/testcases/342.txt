@@ -1,0 +1,8 @@
+
+        int main(){
+            do
+            {}{}{func(2);}
+            i;
+            foo(a[0]);
+            while i + 1 = 0;
+        } 

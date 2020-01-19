@@ -1,0 +1,8 @@
+
+                float sum(){
+                    return 8.8888888888888;
+                }
+                void main(){
+                    sum();
+                }
+                

@@ -1,0 +1,16 @@
+
+        void main() {
+            int a;
+            a = getPower(3,5);
+            putIntLn(a);
+        }
+
+        int getPower(int a, int b) {
+            int i, c;
+            c = 1;
+            for(i = 0; i < b; i=i+1) {
+                c = c * a;
+            }
+            return c;
+        }
+        

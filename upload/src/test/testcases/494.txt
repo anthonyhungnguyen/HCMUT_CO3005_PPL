@@ -1,0 +1,15 @@
+
+        int foo(){
+            boolean a;
+            int b;
+            a =  false || true ;
+            do 
+               b = b - -1;
+                break;
+            while(a != true);
+            return  b;
+        }
+        void main(){
+            foo();
+        }
+        

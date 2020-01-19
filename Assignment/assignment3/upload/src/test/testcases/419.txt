@@ -1,0 +1,14 @@
+
+                int foo(){
+                    int a;
+                    int b;
+                    int c;
+                    for (a; b; c){
+
+                    }
+                    return 8888;
+                }
+                void main(){
+                    foo();
+                }
+                

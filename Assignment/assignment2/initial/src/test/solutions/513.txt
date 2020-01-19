@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(single_literal),[],BoolType,Block([BooleanLiteral(true),BooleanLiteral(false),Return(BooleanLiteral(true))]))])

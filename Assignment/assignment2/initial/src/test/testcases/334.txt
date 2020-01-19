@@ -1,0 +1,5 @@
+
+        int main(int c[]){}
+        float[] func(int j){}
+        int i,j,k;
+        

@@ -1,0 +1,5 @@
+void sum(int i,string s, boolean flag) {
+            int a,b,c;
+            a = i;
+            b = c = 5;
+        }

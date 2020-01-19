@@ -1,0 +1,20 @@
+
+                int foo(int x, int y){
+                    int a;
+                    boolean b;
+                    int c;
+                    for (a + 1; b; c){
+                        return 999;
+                    }
+                    return 888;
+                }
+                int a(int z){
+                    int m;
+                    m = foo(8,9);
+                    return m;
+                }
+                int main(){
+                    a(3);
+                    return 1;
+                }
+                

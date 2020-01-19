@@ -1,0 +1,9 @@
+
+        int booltest(){
+            boolean a;
+            a=(x+b)>c*2;
+            boolean d;
+            d=true;
+            return 0;
+        }
+                

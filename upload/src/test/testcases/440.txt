@@ -1,0 +1,7 @@
+
+        void main() {
+            boolean a;
+            int b;
+            a = b;
+        }
+        

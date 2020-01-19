@@ -1,0 +1,9 @@
+int main(){	
+	                string alps[26];
+                    int i;
+	                do {
+		                temp = rand() % 26;
+		                i=i+1;
+	                }
+                    while ( k<20);
+                }

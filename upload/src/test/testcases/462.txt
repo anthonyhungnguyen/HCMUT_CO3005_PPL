@@ -1,0 +1,8 @@
+
+        void main() {
+            a();
+        }
+        int a() {
+            return 5;
+        }
+        

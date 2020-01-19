@@ -1,0 +1,18 @@
+
+            void main() {
+                float a,b,x;
+                putStringLn("Solve first order function: AX + B = 0");
+                putStringLn("--------------------------------------");
+                putStringLn("Enter a: ");
+                getFloat(a);
+                putStringLn("Enter b: ");
+                getFloat(b);
+                if (a==0)
+                    if (b==0)
+                        putStringLn("Infinity solutions");
+                    else
+                        putStringLn("No solutions");
+                else
+                    putStringLn("Solution: x= ",-b/a);
+            }
+        

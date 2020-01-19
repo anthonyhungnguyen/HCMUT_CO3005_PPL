@@ -1,0 +1,12 @@
+
+		int a[5],b[6];
+		
+		void abc(int x, float y) {
+			x = x*x;
+			y = y*y;
+		}
+		void main() {
+			a = a + a;
+			b = b + b;
+		}
+		

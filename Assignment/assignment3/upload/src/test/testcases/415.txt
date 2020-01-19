@@ -1,0 +1,12 @@
+
+                int foo(){
+                    boolean tof;
+                    if (tof){}
+                    else {}
+                    return 9;
+                }
+                int main(){
+                    foo();
+                    return 0;
+                }
+                

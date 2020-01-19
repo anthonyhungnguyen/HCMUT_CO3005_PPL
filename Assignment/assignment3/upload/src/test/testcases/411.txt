@@ -1,0 +1,10 @@
+
+                int x; 
+                int thisIssOlOnG(int a){ 
+                    y = 888888;
+                    return 999999;
+                }
+                void main(){
+                    thisIssOlOnG(888888);
+                }
+                

@@ -1,0 +1,1 @@
+int,main,(,),{,int,i,,,j,,,k,,,l,,,n,;,system,(,cls,),;,printf,(,enter the range=,),;,scanf,(,%d,,,Error Token &

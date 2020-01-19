@@ -1,0 +1,9 @@
+
+        int main(){
+            float a;
+            a=5;
+            a=(a+d)/c;
+            boolean b;
+            b=false;
+        }
+                

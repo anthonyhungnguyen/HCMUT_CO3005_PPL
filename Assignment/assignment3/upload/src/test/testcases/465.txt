@@ -1,0 +1,8 @@
+
+                int a(int z){
+                    return z;
+                }
+                void main() {
+                    a(1) = 1;
+                }
+                

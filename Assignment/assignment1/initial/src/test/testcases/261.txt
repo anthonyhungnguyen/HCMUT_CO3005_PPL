@@ -1,0 +1,13 @@
+
+            boolean check_incremental_array(float a[], int N) {
+                boolean flag;
+                int i;
+                flag = true;
+                for (i = 0; i < N-1; i=i+1) {
+                    if (a[i] < a[i-1]) {
+                        flag =false;
+                    }
+                }
+                return flag;
+            }
+        

@@ -1,0 +1,5 @@
+
+        int main(){}
+        float[] func(int a){}
+        void foo(string b[]){}
+        

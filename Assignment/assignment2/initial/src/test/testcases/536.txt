@@ -1,0 +1,7 @@
+
+                int main()
+        {
+            foo(a[3*2]);
+            foo(x+y);
+        }
+                

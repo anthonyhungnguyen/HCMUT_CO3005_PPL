@@ -1,0 +1,12 @@
+
+                int sum(){
+                    string x;
+                    do {
+                        x = "This Is So Tired!";
+                    }
+                    while (true);
+                }
+                void main(){
+                    sum();
+                }
+                

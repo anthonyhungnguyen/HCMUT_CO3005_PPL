@@ -1,0 +1,7 @@
+int main(){
+	                int index;  
+	                printString("Enter string: ");
+	                func(func(func(func(10, c[2], k[f[5]]), c[4]), 454), k[j[6]]);
+	                index;
+	                
+                }

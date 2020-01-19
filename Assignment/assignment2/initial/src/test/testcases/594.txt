@@ -1,0 +1,8 @@
+
+        int x,y,z;
+        void a(){}
+        float b(){}
+        int  main(){
+            ((l<=m)>=n);
+        }
+                

@@ -1,0 +1,7 @@
+
+                void main(){ 
+                    int x; 
+                    int arr[99];
+                    -x = arr[8] * 20 - (8888 * arr[9]) / 9;             
+                }
+                

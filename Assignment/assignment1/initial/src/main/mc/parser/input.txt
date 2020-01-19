@@ -1,0 +1,4 @@
+boolean foo2(int a, float b, string x, boolean h){
+                putString(s);
+                return x+f[(2+3*9)]
+            }

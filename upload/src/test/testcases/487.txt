@@ -1,0 +1,25 @@
+
+        int foo(){
+            boolean a;
+            int b;
+            a =  false || true ;
+            for (b = 1 ; b < 2 + 1 ; b = b--1)
+            {
+                if (a == true) 
+                    {
+                        return b*8;
+                    }
+                else
+                {
+                    if(!a) 
+                        return 1;
+                    else 
+                        return 1+-1;
+                }
+            }
+            
+        }
+        void main(){
+            foo();
+        }
+        

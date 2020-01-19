@@ -1,0 +1,3 @@
+void foo(int a, int b) {
+            x = foo[12][34];
+        }

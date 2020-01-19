@@ -1,0 +1,6 @@
+
+                void main(){ 
+                    int x, arr[8];
+                    x * 888 = 999 + arr[0];            
+                }
+                

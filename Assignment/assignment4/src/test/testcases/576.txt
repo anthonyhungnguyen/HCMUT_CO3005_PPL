@@ -1,0 +1,18 @@
+
+        void main() {
+            int a, b;
+            b = 2;
+            a = 2*b-1;
+            if ((a<b) && ((a+2*b)>=2)) {
+                a = b;
+                b = 2*a+1;
+            } else {
+                a = 2;
+                b = 3;
+                b = b + 1;
+            }
+            putIntLn(a);
+            putIntLn(b);
+        }
+
+        

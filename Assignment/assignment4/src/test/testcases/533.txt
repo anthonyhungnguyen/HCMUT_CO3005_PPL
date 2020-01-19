@@ -1,0 +1,8 @@
+
+        void main() {
+            float b;
+            b = 36.6;
+            putFloat(b/3/2);
+        }
+
+        

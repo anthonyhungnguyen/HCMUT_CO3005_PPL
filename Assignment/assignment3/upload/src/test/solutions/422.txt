@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(BinaryOp(+,Id(a),IntLiteral(1));Id(b);BinaryOp(+,Id(c),FloatLiteral(9.99));Block([Return(IntLiteral(888))]))

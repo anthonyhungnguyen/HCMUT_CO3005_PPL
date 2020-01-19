@@ -1,0 +1,5 @@
+void abc() {
+				for (i[234]; sadPepe(); func()){
+                    print(whatIsThis);
+                }
+		}

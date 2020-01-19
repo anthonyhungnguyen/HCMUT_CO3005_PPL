@@ -1,0 +1,7 @@
+int main(){
+		                    for(j=1; j<=i; j+6) {
+			                    printString(k,"nn");
+			                    k+4;
+		                    }
+		                    printString("w");
+                    }

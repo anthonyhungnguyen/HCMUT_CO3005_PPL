@@ -1,0 +1,11 @@
+
+        void main() {
+            float a, b;
+            b = 3;
+            a = mul(1.2,2.0);
+            putFloat(mul(b,a));
+        }
+        float mul(float a, float b) {
+            return a * b;
+        }
+        

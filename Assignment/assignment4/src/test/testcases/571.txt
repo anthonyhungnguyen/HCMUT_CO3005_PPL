@@ -1,0 +1,11 @@
+
+       boolean isOdd(int val)
+        {
+         return val % 2 ==1;
+        }
+        void main()
+        {
+        putBoolLn(isOdd(3));
+        putBoolLn(isOdd(2));
+        }
+        

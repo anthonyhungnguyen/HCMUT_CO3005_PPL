@@ -1,0 +1,10 @@
+
+        float foo(float i) {
+            return i;
+        }
+        int a;
+        void main() {
+            a = 3;
+            putFloat(foo(3));
+        }
+        

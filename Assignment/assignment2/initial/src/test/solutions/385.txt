@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(abc),[],VoidType,Block([Dowhile([If(Id(a),Return(IntLiteral(0)))],Id(i))]))])

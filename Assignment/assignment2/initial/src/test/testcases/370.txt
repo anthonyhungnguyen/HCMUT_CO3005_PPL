@@ -1,0 +1,10 @@
+string pName[30];
+            int  qty[3];
+            int  i; 
+            int main(){
+                printString(setw(30),"Product Name",setw(20),"Quantity",endl);
+                for(i=0; i< 3; i+1){
+                    printString(setw(30),setfill("-"),pName[i],setw(20),setfill("#"),qty[i],endl);
+                }
+            return 0;
+        } 

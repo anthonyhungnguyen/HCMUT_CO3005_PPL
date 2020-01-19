@@ -1,0 +1,26 @@
+
+        int foo(){
+            boolean a;
+            int b;
+            a =  false || true ;
+            do 
+                {
+                    if (a == true) 
+                        {
+                            return b*8;
+                        }
+                    else
+                        {
+                            if(!a) 
+                                return 1;
+                            else 
+                                return 1+-1;
+                        }
+                }
+            while(a != true);
+            
+        }
+        void main(){
+            foo();
+        }
+        

@@ -1,0 +1,8 @@
+void foo(float x) {
+            float t;
+            if (a > 1) {
+                a = 1;
+            } else {
+                sum();
+            }
+        }

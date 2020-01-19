@@ -1,0 +1,8 @@
+
+        void func(){}
+        int main()
+        {
+            x= 1234;
+        }
+
+                

@@ -1,0 +1,16 @@
+
+            float sum_float_arr(float a[]) {
+                int i;
+                float s;
+                s = 0;
+                for (i = n - 1; i >= 0; i=i-1) {
+                    s = s + a[i];
+                }
+                return s;
+            }
+            void main() {
+                float a[100];
+                int n;
+                putString("Sum of float array: " + sum_float_arr(a));
+            }
+        

@@ -1,0 +1,6 @@
+void sum(int i,string s, boolean flag) {
+            int a, b, c;
+            boolean x;
+            string g;
+            float q,w;
+        }

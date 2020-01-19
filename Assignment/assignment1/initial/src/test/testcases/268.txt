@@ -1,0 +1,14 @@
+
+            void main() {
+                float r,s,c,pi;
+                pi = 3.14;
+                putStringLn("Tool for calculating s and p of circle");
+                putStringLn("--------------------------------------");
+                putStringLn("Enter radius R: ");
+                getFloat(r);
+                s = pi * r * r;
+                c = 2 * pi * r;
+                putStringLn("Area: ",s);
+                putStringLn("Circumference: ",c);
+            }
+        

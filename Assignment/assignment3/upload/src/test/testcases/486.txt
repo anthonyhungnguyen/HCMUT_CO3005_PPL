@@ -1,0 +1,8 @@
+
+                int sum(){
+                    return 8.8888888;
+                }
+                void main(){
+                    sum();
+                }
+                

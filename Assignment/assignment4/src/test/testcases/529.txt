@@ -1,0 +1,6 @@
+
+        void main() {
+            putInt(4-2+1);
+        }
+
+        

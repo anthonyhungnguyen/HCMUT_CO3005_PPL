@@ -1,0 +1,8 @@
+
+                int sum() {
+                    int a, b, c, x, y, z;
+                }
+                void main(){
+                    sum();
+                }
+                

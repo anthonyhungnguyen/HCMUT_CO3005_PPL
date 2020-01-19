@@ -1,0 +1,15 @@
+
+                int foo(){
+                    int a;
+                    boolean b;
+                    int c;
+                    for (a + 1; b; c){
+                        return 8;
+                    }
+                    return 789;
+                }
+                int main(){
+                    foo();
+                    return 0;
+                }
+                

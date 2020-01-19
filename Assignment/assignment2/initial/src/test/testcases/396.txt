@@ -1,0 +1,5 @@
+void abc() {
+				callsomeFuncHere();
+                if (isItTrue)
+                    i + 1;
+		}

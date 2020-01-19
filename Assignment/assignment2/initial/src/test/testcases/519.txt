@@ -1,0 +1,16 @@
+
+        int a,b ;
+        int k(int x,int k[]){
+            printf("15");
+
+        }
+        int main()
+        {
+            do
+            {
+                a = a * b;
+                if (a > b) continue;
+                k(a,k(1, a));
+            } while (a < 10);
+        }
+                

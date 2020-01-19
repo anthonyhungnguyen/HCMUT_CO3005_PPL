@@ -1,0 +1,10 @@
+
+                void so(int x, float y){
+                    return;
+                }
+                float z;
+                void main(){
+                    so(getInt(), z);
+                    so(tired(), z);     
+                }
+                

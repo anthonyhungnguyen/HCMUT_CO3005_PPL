@@ -1,0 +1,12 @@
+
+                int foo(){
+                    int a;
+                    a = 0;
+                    if (a == 888.888){}
+                    else {}
+                    return 9999;
+                }
+                void main(){
+                    foo();
+                }
+                

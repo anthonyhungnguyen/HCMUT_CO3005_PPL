@@ -1,0 +1,8 @@
+
+        void main() {
+            float a;
+            a = 1.2;
+            putFloatLn(a);
+        }
+
+        

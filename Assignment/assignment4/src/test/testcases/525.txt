@@ -1,0 +1,6 @@
+
+        void main() {
+            putIntLn(17-2-4);
+        }
+
+        

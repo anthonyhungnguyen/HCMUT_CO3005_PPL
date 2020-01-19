@@ -1,0 +1,7 @@
+
+        boolean a;
+        void main() {
+            putBool(a);
+        }
+
+        

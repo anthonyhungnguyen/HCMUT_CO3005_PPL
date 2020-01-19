@@ -1,0 +1,13 @@
+
+        void printNum(int a) {
+            if (a > 0) {
+                putInt(a);
+                a = a - 1;
+                printNum(a);
+            }
+        }
+
+        void main() {
+            printNum(7);
+        }
+        

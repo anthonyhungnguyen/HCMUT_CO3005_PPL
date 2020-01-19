@@ -1,0 +1,7 @@
+
+        int main(){
+            string a;
+            a = "abc";
+            printf(a);
+        }
+                

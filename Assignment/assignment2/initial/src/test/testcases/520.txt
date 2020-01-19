@@ -1,0 +1,12 @@
+
+        int a,b ;
+        int main()
+        {
+            do
+            {
+                a = a * b;
+                if (a > b) continue;
+                k(a,k());
+            } while (a < 10);
+        }
+                

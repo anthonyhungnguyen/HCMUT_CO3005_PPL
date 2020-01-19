@@ -1,0 +1,16 @@
+
+            void print(){
+                int i;
+                i = 0;
+                for (i; i < foo(); i = i + 1){
+                    putIntLn(i);
+                }
+            }
+            int foo(){
+                return 9;
+            }
+            int main(){
+                print();
+                return 0;
+            }
+            

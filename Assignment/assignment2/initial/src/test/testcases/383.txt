@@ -1,0 +1,3 @@
+void abc() {
+				print("xin chao", 10.2e2)
+		}

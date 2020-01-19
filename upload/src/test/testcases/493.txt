@@ -1,0 +1,15 @@
+
+        int foo(){
+            boolean a;
+            int b;
+            a =  false || true ;
+            for( b = 0; a = true ; b = b + 1)
+            {
+                if(b == 99999) continue;
+            }
+            continue;
+        }
+        void main(){
+            foo();
+        }
+        

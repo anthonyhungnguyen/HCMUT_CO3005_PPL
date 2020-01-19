@@ -1,0 +1,10 @@
+
+        string[] main(int k[]){
+            do
+                if(i < 1)
+                    j = j + 1;
+                else
+                    foo(j);
+            while j < 100;
+        }
+        

@@ -1,0 +1,6 @@
+
+                void main(){ 
+                    int arr[8];
+                    true = arr[0];            
+                }
+                

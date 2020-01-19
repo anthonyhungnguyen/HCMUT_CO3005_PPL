@@ -1,0 +1,7 @@
+
+        void main(){
+            boolean a;
+            a = true == 1;
+
+        }
+        

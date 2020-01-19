@@ -1,0 +1,15 @@
+
+                void main(){
+                    foo();
+                }
+                int foo(){
+                    float a;
+                    boolean b;
+                    int c;
+                    for (a + 1; b; c){
+                        c = c + 99;
+                        return c * 88;
+                    }
+                    return c;
+                }
+                

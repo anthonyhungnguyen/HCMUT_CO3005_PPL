@@ -1,0 +1,9 @@
+
+                int a; 
+                int foo(int b){
+                    return c + 8888;
+                }
+                int main(){
+                    foo(999);
+                }
+                

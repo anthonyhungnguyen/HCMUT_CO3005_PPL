@@ -1,0 +1,11 @@
+
+                int foo(){
+                    int a;
+                    -a;
+                    return a;
+                }
+                int main(){
+                    foo();
+                    return 0;
+                }
+                

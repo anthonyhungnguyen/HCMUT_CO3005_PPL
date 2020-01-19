@@ -1,0 +1,5 @@
+void abc() {
+				do
+                    return 0;
+                while i;
+		}

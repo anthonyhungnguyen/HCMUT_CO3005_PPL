@@ -1,0 +1,17 @@
+
+                    int a; 
+                    int foo(int a){ 
+                        int b;
+                        b = 1; 
+                        {
+                            int a;
+                            return 8888888;
+                        }
+                    } 
+                    int foo(){
+                        return 999999;
+                    }
+                    void main(){
+                        foo(8);
+                    }
+                

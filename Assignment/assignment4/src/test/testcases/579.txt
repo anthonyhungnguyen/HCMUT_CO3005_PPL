@@ -1,0 +1,13 @@
+
+        string getText(int n){
+            if(n%2==0)
+            return "so chan";
+            else
+            return "so le";
+            }
+        void main()
+        {
+        putStringLn(getText(2));
+        putStringLn(getText(1));
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([VarDecl(alps,ArrayType(StringType,26)),VarDecl(i,IntType),Dowhile([Block([BinaryOp(=,Id(temp),BinaryOp(%,CallExpr(Id(rand),[]),IntLiteral(26))),BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)))])],BinaryOp(<,Id(k),IntLiteral(20)))]))])

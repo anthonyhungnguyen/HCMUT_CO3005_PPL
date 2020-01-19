@@ -1,0 +1,9 @@
+
+            int fibo(int x) {
+                int f1, f2;
+                if (x<=2) 
+                    return 1;
+                else 
+                    return fibo(x-2) + fibo(x-1);
+            }
+        

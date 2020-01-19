@@ -1,0 +1,10 @@
+void foo(int a, int b) {
+            if (a > 1 || b < 10) {
+                a = b;
+            }
+            if (1 < 2) {
+                b = b + 1;
+            } else {
+                a = a + 1;
+            }
+        }

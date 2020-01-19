@@ -1,0 +1,7 @@
+
+                string y; 
+                int x[88]; 
+                void main() {
+                    x[y];
+                }
+                

@@ -1,0 +1,8 @@
+
+        int main(){}
+        float[] func(int a){}
+        boolean isTrue;
+        void foo(string b[], int c){
+            isTrue = 1;
+        }
+        

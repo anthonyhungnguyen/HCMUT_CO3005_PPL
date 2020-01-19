@@ -1,0 +1,10 @@
+
+                void main(){ 
+                    int x; 
+                    int arr[99];
+                    alterEgo() = -(x + arr[88] / 9999 * 888);             
+                }
+                int alterEgo(){
+                    return 888888;
+                }
+                

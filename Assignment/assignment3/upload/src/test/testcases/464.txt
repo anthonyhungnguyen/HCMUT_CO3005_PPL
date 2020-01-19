@@ -1,0 +1,44 @@
+
+            int x(int a){
+                x(5);
+                return 5;
+            }
+
+            float y(int a){
+                x(a);
+                return 5.5;
+            }
+            void z(int a){
+                z(a);
+            }
+            boolean w(int a){
+                return true;
+            }
+            string t(int a){
+                return "5";
+            }
+
+            void main (float a, float b) {
+                if(a <= b){
+                    y(888);
+                }
+                else
+                    y(888);
+                do {
+                    if (a >= b)
+                        t(5);
+
+                }
+                while(a > b);
+
+                int c;
+                c = 999;
+                int i;
+
+                for(i = 888; a < c; c = c + 1){
+                    w(5);
+                    t(5);
+                }
+                x(5);
+            }
+            

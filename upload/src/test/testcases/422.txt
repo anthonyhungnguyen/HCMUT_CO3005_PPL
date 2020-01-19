@@ -1,0 +1,13 @@
+
+        void main() {
+            foo();
+        }
+        int foo() {
+            int a;
+            if (a==1) {
+
+            } else {
+                return a;
+            }
+        }
+        

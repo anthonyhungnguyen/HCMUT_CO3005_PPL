@@ -1,0 +1,17 @@
+
+            int i;
+            int f() {
+               return ;
+            }
+            int main() {
+                main = f();
+                putIntLn(main);
+                do {
+                    main = f = i = 100;
+                    putIntLn(i);
+                    putIntLn(main);
+                    putIntLn(f);
+                } while (putIntLine(main));
+                float g;
+            }
+        

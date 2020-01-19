@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([For(BinaryOp(=,Id(i),IntLiteral(0));BinaryOp(<,Id(i),IntLiteral(58));BinaryOp(+,Id(i),IntLiteral(1));Block([If(BinaryOp(<,ArrayCell(Id(count1),Id(i)),ArrayCell(Id(count2),Id(i))),Block([BinaryOp(=,Id(ans),BooleanLiteral(false)),Break()]))])),If(Id(ans),CallExpr(Id(printString),[StringLiteral(Yes),Id(endl)])),Return(IntLiteral(0))]))])

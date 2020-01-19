@@ -1,0 +1,12 @@
+
+        int main(){
+            if(i > 2)
+                if(j < 5)
+                    if(k == 0)
+                        i = 1;
+                    else
+                        if(m - 1 == 0)
+                            return 0;
+                        else
+                            foo();
+        } 

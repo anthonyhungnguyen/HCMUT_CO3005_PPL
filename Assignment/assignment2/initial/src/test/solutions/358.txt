@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(randomFunc),[VarDecl(s,ArrayTypePointer(StringType)),VarDecl(c,StringType)],IntType,Block([VarDecl(length,IntType),VarDecl(i,IntType),For(BinaryOp(=,Id(i),BinaryOp(-,IntLiteral(2),IntLiteral(1)));BinaryOp(>=,Id(i),IntLiteral(0));BinaryOp(-,Id(i),IntLiteral(1));Block([])),Return(UnaryOp(-,IntLiteral(1)))]))])

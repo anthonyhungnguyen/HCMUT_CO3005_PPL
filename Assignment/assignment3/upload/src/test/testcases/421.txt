@@ -1,0 +1,14 @@
+
+                int foo(int x, int y){
+                    int a;
+                    boolean b;
+                    float c;
+                    for (a + 1; b; c){
+                        return 999;
+                    }
+                    return 888;
+                }
+                void main(){
+                    foo(8,9);
+                }
+                

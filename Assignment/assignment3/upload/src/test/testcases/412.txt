@@ -1,0 +1,14 @@
+
+                    int a; 
+                    float foo(int a){ 
+                        int c; 
+                        x; 
+                        {
+                            int a;
+                            return 9999.9999;
+                        }
+                    }
+                    float main(){
+                        foo(8888.8888);
+                    }
+                

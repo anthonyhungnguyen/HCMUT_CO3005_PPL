@@ -1,0 +1,9 @@
+void nextNum(string num[]){  
+	                int i,j;
+	                for(i=size-1;i>0;i-1){
+		                break;
+	                }
+	                
+	                int x,num[1],smaller,i;
+	                return ;
+                }

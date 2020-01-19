@@ -1,0 +1,14 @@
+
+                int foo(){
+                    int a;
+                    a = 0;
+                    if (a == 888){
+                        break;
+                    }
+                    else {}
+                    return 9999;
+                }
+                void main(){
+                    foo();
+                }
+                

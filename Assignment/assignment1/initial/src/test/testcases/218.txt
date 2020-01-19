@@ -1,0 +1,3 @@
+void sum() {
+            x = a + b + c - d;
+        }

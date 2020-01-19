@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(abc),[],VoidType,Block([CallExpr(Id(print),[StringLiteral(thank you for your attention)]),CallExpr(Id(say),[StringLiteral(avenger assemble)])]))])

@@ -1,0 +1,7 @@
+
+        
+        void main() {
+        string a;
+        a="a" + "abc";   
+        }
+        

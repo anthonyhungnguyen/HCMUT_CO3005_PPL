@@ -1,0 +1,16 @@
+
+                float thIsIssOlOnG(){
+                    int x;
+                    int y;
+                    do {
+                        x = x * y;
+                        return y;
+                    }
+                    while(true);
+                    return x;
+                }
+                float main(){
+                    thIsIssOlOnG();
+                    return 0;
+                }
+                

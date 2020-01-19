@@ -1,0 +1,6 @@
+
+        int main()
+        {
+            do {d=a+b;}c=3*f; while (a>0||b+c-d<12e-4);
+        }
+                

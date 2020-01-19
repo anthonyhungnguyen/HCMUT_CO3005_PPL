@@ -1,0 +1,12 @@
+
+           int count_X_element(int a[], int X) {
+               int i, count;
+               count = 0;
+               for (i = 0; i < N; i=i+1) {
+                   if (a[i] == X) {
+                       count = count + 1;
+                   }
+               }
+               return count;
+           }
+        

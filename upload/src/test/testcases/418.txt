@@ -1,0 +1,10 @@
+
+        void main() {
+
+        }
+        int foo() {
+            int a;
+            foo();
+            return a;
+        }
+        

@@ -1,0 +1,12 @@
+
+                    float main(){
+                        int x;
+                        int y;
+                        do {
+                            x = x * y;
+                            return y;
+                        }
+                        while(true);
+                        return x;
+                    }
+                    

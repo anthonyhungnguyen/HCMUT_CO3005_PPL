@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(floatarr),[],ArrayTypePointer(FloatType),Block([Return(CallExpr(Id(toFloatArr),[FloatLiteral(1.23),FloatLiteral(150.0)]))]))])

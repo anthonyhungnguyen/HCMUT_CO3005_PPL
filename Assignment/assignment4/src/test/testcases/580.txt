@@ -1,0 +1,12 @@
+
+        void main() {
+            putBool(checkIfOdd(12));
+        }
+        boolean checkIfOdd(int num) {
+            if ((num % 2) == 0) {
+                return 0;
+            } else {
+                return 1;
+            }
+        }
+        

@@ -1,0 +1,15 @@
+
+                    int foo(int x, int y){
+                        int a;
+                        boolean b;
+                        int c;
+                        for (a + 1; b; c){
+                            return 999;
+                        }
+                        return 888;
+                    }
+                    int a(int z){
+                        foo(8,9);
+                        return 0;
+                    }
+                    

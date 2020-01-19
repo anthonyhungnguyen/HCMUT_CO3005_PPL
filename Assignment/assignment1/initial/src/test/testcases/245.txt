@@ -1,0 +1,12 @@
+void main() {
+           if (a==b) {
+               if(c==d) {
+                   do{
+
+                   } while(d==e);
+               }
+               else {
+                   c = c + 1;
+               }
+           }
+        }

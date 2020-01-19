@@ -1,0 +1,12 @@
+
+        int foo(){
+            boolean a;
+            int b;
+            a =  false || true ;
+            for (b = 1 ; b < 2 + 1 ; b = b--1) return 1;
+            return b;
+        }
+        void main(){
+            foo();
+        }
+        

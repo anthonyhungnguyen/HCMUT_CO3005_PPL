@@ -1,0 +1,7 @@
+
+        string a;
+        void main() {
+            putString(a);
+        }
+
+        

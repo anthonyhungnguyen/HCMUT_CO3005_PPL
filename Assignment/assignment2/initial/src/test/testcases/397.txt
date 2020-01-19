@@ -1,0 +1,7 @@
+void abc() {
+				do
+                    return;
+                    break;
+                    continue;
+                while i;
+		}

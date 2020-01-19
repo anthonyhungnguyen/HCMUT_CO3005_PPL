@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(abc),[],VoidType,Block([ArrayCell(CallExpr(Id(foo),[BinaryOp(=,StringLiteral(9999),BinaryOp(+,IntLiteral(1),IntLiteral(2)))]),IntLiteral(123))]))])

@@ -1,0 +1,15 @@
+
+                int sum(){
+                    if (!true){
+                        int a;
+                        return 1;
+                    }
+                    else {
+                        int b;
+                        return 2;
+                    }
+                }
+                void main(){
+                    sum();
+                }
+                

@@ -1,0 +1,11 @@
+
+                    int foo(){
+                        if (2 + 1){}
+                        else {}
+                        return 8;
+                    }
+                    int main(){
+                        foo();
+                        return 0;
+                    }
+                    

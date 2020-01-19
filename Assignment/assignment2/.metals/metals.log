@@ -1,0 +1,4 @@
+INFO  time: initialize in 0.43s
+WARN  no build tool detected in workspace 'C:\Users\Admin\Desktop\assignment2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Users\Admin\Desktop\Computer Science\Junior\Principles of Programming Languages (CO3005)\References\hcmut-ppl-assignments\assignment-2\src\main\mc\astgen\ASTGeneration.scala
+INFO  no build target: using presentation compiler with only scala-library

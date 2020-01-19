@@ -1,0 +1,9 @@
+
+        int mul(int a, int b) {
+            return a * b;
+        }
+
+        void main() {
+            putInt(mul(2,3) + mul(4,5));
+        }
+        

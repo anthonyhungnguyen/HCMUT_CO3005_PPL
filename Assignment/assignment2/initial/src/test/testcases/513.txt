@@ -1,0 +1,7 @@
+
+        boolean single_literal(){
+            true;
+            false;
+            return true;
+        }
+                

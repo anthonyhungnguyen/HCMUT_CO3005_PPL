@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test),[],ArrayTypePointer(BoolType),Block([Return(CallExpr(Id(toBool),[BooleanLiteral(false),BooleanLiteral(true)]))]))])

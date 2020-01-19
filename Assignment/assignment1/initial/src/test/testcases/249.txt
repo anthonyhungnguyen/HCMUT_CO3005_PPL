@@ -1,0 +1,12 @@
+
+            string fname, sname, lname;
+            void main() {
+                putStringLn("Enter your firstname: ");
+                getString(fname);
+                putStringLn("Enter your lastname: ");
+                getString(lname);
+                putStringLn("Enter your sur name: ");
+                getString(sname);
+                putStringLn("Your full name is: ", fname, sname, lname);
+            }
+        

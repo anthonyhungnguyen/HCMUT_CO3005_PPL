@@ -1,0 +1,8 @@
+
+        float foo(int a) {
+
+        }
+        string[] lala(float b) {
+
+        }
+        

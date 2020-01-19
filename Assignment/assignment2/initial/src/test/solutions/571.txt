@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([If(BinaryOp(>,Id(a),Id(b)),If(BinaryOp(<,Id(b),Id(a)),CallExpr(Id(doIt),[Id(a)]),CallExpr(Id(doIt),[Id(b)])))]))])

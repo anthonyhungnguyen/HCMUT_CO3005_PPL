@@ -1,0 +1,8 @@
+
+        void main() {
+            string a;
+            a = "haha";
+            putString(a);
+        }
+
+        

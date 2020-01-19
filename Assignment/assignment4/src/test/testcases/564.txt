@@ -1,0 +1,10 @@
+
+        float add(float a) {
+            return a + 1;
+        }
+        void main() {
+            int a;
+            a = 3;
+            putFloatLn(add(add(3)));
+        }
+        

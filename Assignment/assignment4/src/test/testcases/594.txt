@@ -1,0 +1,11 @@
+
+        void main() {
+            int x, i;
+            i = 0;
+            for (x = 1; x <= 10; x=x+1) {
+                if ((x % 2) == 0) continue;
+                i = i + 1;
+            }
+            putIntLn(i);
+        }
+        

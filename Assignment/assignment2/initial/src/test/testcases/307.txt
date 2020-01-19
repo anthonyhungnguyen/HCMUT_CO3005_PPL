@@ -1,0 +1,9 @@
+
+        int main(){
+            if(i > 2){
+                int i;
+            }else{
+                z + 3;
+                println(fsdf);
+            }
+        } 

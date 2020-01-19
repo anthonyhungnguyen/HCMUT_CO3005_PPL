@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "antlr4",
+			"type": "antlr-debug",
+			"request": "launch",
+			"input": "C:\\Users\\Admin\\Desktop\\Computer Science\\Junior\\Principles of Programming Languages (CO3005)\\Assignment\\assignment1\\initial\\src\\main\\mc\\parser\\input.txt",
+			"grammar": "C:\\Users\\Admin\\Desktop\\Computer Science\\Junior\\Principles of Programming Languages (CO3005)\\Assignment\\assignment1\\initial\\src\\main\\mc\\parser\\MC.g4",
+			"startRule": "program",
+			"printParseTree": true,
+			"visualParseTree": true
+		}
+	]
+}

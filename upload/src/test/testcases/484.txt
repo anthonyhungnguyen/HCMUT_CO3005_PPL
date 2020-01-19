@@ -1,0 +1,20 @@
+
+        int foo(){
+            int a;
+            a = 1 / 2;
+            if (a < 1) 
+                {
+                    return a = a + 1;
+                }
+            else
+            {
+                if(a>0) 
+                    return 1;
+                else 
+                    return a = a + 1;
+            }
+        }
+        void main(){
+            foo();
+        }
+        

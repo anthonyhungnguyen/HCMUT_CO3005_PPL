@@ -1,0 +1,8 @@
+
+            void foo4(int a, float b[]){
+                if (true)
+                {
+                    foo(x+4,3)[4+[9]]
+                }
+            }
+        

@@ -1,0 +1,10 @@
+
+        void main() {
+           boolean a;
+           a = true && false && true && false;
+           a = true || false || true || false;
+           a = true && false || true && false;
+           a = true == true;
+           a = false != true;
+        }
+        

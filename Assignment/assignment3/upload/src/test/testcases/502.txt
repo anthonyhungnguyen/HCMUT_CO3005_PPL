@@ -1,0 +1,15 @@
+
+        int foo(int a[] ,float b[] ,boolean c[], string d[] ,int a1, float b1 ,float b2,boolean c2)
+        {
+            return 1;
+        }
+        boolean[] bool(){
+            boolean a[1];
+            return a;
+        }
+        void main(float b[]){
+            int a[2];
+            string d[99];
+            foo(a,b,bool(),d,a[0],b[1],a[1],bool()[0]);
+        }
+        

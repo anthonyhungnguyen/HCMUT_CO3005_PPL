@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([IntLiteral(123),StringLiteral(abc)]))])

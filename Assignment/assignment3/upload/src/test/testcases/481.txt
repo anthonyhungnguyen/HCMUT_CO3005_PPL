@@ -1,0 +1,16 @@
+
+                int sum(){
+                    int x;
+                    do {
+                        do {
+                            x = x * 999;
+                        }
+                        while(x < 888);
+                        return 1;
+                    }
+                    while (true);
+                }
+                void main(){
+                    sum();
+                }
+                

@@ -1,0 +1,13 @@
+
+                    float main(){
+                        int x;
+                        int y;
+                        do {
+                            if (x == y)
+                                continue;
+                            return y;
+                        }
+                        while(true);
+                        return x;
+                    }
+                    

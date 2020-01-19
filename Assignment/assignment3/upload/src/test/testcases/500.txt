@@ -1,0 +1,13 @@
+
+                int sum(){
+                    int i;
+                    int sum;
+                    for (i = 0; i < 9; i = i + 1){
+                        sum = sum + i;
+                    }
+                    return 888888;
+                }
+                int main(){
+                    return sum();
+                }
+                

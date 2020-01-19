@@ -1,0 +1,10 @@
+
+        boolean a;
+        void main() {
+            int b, c;
+            a = true;
+            b = 4;
+            c = 2 * b - 3;
+            putBool((b<2) || (c<10) || a);
+        }
+        

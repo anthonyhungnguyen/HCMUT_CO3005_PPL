@@ -1,0 +1,6 @@
+
+        int a;
+        int[] list2a(int a){
+            return toList(a);
+        }
+                

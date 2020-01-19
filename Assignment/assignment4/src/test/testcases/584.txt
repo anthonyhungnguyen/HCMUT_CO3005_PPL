@@ -1,0 +1,8 @@
+
+        void main() {
+            putBool(true||true);
+            putBool(true||false);
+            putBool(false||true);
+            putBool(false||false);
+        }
+        

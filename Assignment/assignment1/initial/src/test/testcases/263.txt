@@ -1,0 +1,11 @@
+
+            void assert_el(float a[], int N, int k, int x) {
+                int i;
+                for (i = N; i < k + 1; i=i-1) {
+                    if (a[i] != a[i-1] + k) {
+                        a[i] = a[i-1];
+                        a[k] = x;
+                    }
+                }
+            }
+        

@@ -1,0 +1,9 @@
+
+        boolean bigger(int a, int b) {
+            return a > b;
+        }
+
+        void main() {
+            putBool(bigger(4,3) && bigger(2,5));
+        }
+        

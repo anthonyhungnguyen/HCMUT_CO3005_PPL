@@ -1,0 +1,8 @@
+
+        void main() {
+            int a, b;
+            a = 1;
+            b = 2;
+            putBool((b!=1) != (a != 1));
+        }
+        

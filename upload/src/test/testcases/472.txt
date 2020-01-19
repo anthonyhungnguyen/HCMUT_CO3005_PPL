@@ -1,0 +1,14 @@
+
+        void main() {
+            int a;
+            {
+                string a;
+                {
+                    boolean a;
+                    {
+                        float a;
+                    }
+                }
+            }
+        }
+        

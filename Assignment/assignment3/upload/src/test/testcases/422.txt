@@ -1,0 +1,14 @@
+
+                void main(){
+                    foo(31, 12, 2019);
+                }
+                int foo(int x, int y, int z){
+                    int a;
+                    boolean b;
+                    int c;
+                    for (a + 1; b; c + 9.99){
+                        return 888;
+                    }
+                    return a;
+                }
+                

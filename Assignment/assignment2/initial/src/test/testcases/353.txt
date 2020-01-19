@@ -1,0 +1,10 @@
+
+        string[] main(int k[]){
+            for(i = true; i < 100; i = false)
+                if(!true)
+                    if (x > -400)
+                        x = 3 + -500;
+                    else
+                        x = -500;
+        }
+        

@@ -1,0 +1,13 @@
+
+        int x;
+        void main() {
+            x = 1;
+            do {
+                x = x + 1;
+                if ((x % 2 == 0) && (x>4)) {
+                    break;
+                }
+            } while(x<6);
+            putInt(x);
+        }
+        

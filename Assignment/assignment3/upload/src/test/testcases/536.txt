@@ -1,0 +1,12 @@
+
+        int main(){
+            boolean test;
+            int a;
+            test = ! (a < 1);
+            if(false) return foo();
+            return a;
+        }
+        int foo(){
+            return main();
+        }
+        

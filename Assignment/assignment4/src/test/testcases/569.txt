@@ -1,0 +1,8 @@
+
+        boolean divBy2(int a) {
+            return (a % 2) == 0;
+        }
+        void main() {
+            putBool(divBy2(5) || divBy2(4));
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([CallExpr(Id(a),[CallExpr(Id(b),[CallExpr(Id(c),[Id(d)])])])]))])

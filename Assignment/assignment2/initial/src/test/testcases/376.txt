@@ -1,0 +1,18 @@
+void abc() {
+			int i,j;
+			for(i = 1;i < 100;i = i*10)
+			{
+				do
+					if(j == 15)
+						break;
+					if(j == 20)
+						continue;
+					j = j*2;
+				while j <= 25;
+				if(i == 50)
+					return j;
+				if(j == 25)
+					return i;
+			}
+			return;
+		}

@@ -1,0 +1,6 @@
+
+        int main(int c[]){
+            foo();
+            foo(foo());
+            foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo(foo())))))))))))))))));
+        }

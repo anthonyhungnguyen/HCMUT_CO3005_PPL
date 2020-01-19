@@ -1,0 +1,9 @@
+
+                void main(){
+                    foo();
+                }
+                int foo(){
+                    string a;
+                    -a;
+                    return 0;
+                }

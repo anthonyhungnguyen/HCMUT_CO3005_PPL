@@ -1,0 +1,23 @@
+
+        void main() {
+            foo();
+        }
+        int foo() {
+            int a,b,c,d,e,f;
+            if (a==1) {
+                if(b==2) {
+                    if(c==3) {
+                        if(d==4) {
+                            if(e==5) {
+                                if(f==6) {
+                                    return a;
+                                } else {
+                                    return b;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        

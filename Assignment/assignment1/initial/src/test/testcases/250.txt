@@ -1,0 +1,7 @@
+
+            void main() {
+                a[b[2]] = 10;
+                foo();
+                return;
+            }
+        

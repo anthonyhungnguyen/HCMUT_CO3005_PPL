@@ -1,0 +1,9 @@
+ int main(){
+            {
+                if (this != b) {
+                    return helloWorld();
+                    helloWorld() = new[i];
+                }
+                return this;
+            }
+        } 

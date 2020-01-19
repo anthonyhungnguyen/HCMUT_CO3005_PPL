@@ -1,0 +1,8 @@
+
+        int foo(){
+            foo();
+            return 1;
+        }
+        void main(){
+        }
+        

@@ -1,0 +1,10 @@
+void foo(int a, int b) {
+                    for (i = 1; i < 10; i=i+1) {
+                        for (j = 1; j < 100; j=j+1) {
+                            do {
+                                x = x + 10*5/6;
+                            }
+                            while (x>1);
+                        }
+                    }
+                }

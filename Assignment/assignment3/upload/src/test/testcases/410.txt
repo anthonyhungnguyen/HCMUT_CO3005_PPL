@@ -1,0 +1,10 @@
+
+                    int a; 
+                    int foo(int a){
+                        b;
+                        return 99999;
+                    }
+                    void main (){
+                        foo(888888);
+                    }
+        

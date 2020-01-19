@@ -1,0 +1,14 @@
+
+                int sum(){
+                    if (true){
+                        return 888888;
+                    }
+                    else{
+
+                    }
+                    return 99999;
+                }
+                int main(){
+                    return sum();
+                }
+                

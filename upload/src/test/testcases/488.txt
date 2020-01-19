@@ -1,0 +1,15 @@
+
+        int foo(){
+            boolean a;
+            int b;
+            a =  false || true ;
+            do 
+                b = 1 + 1;
+                return -10;
+            while(a != true);
+            
+        }
+        void main(){
+            foo();
+        }
+        

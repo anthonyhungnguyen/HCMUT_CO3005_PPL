@@ -1,0 +1,13 @@
+
+            boolean check_symmetric(float a[], int N) {
+                boolean flag;
+                int i;
+                flag = true;
+                for (i = 0; i < N; i=i+1) {
+                    if (a[i] != a[N-i+1]) {
+                        flag = false;
+                        return flag;
+                    }
+                }
+            }
+        

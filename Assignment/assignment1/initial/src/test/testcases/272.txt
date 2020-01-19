@@ -1,0 +1,9 @@
+
+            float a,b,c,s,p;
+            void main() {
+                if (a) b = c;
+                else if (a) b = c;
+                else if (a) b = c;
+                else b = c;
+            }
+        

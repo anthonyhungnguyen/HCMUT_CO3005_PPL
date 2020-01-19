@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(nextNum),[VarDecl(num,ArrayTypePointer(StringType))],VoidType,Block([VarDecl(i,IntType),VarDecl(j,IntType),For(BinaryOp(=,Id(i),BinaryOp(-,Id(size),IntLiteral(1)));BinaryOp(>,Id(i),IntLiteral(0));BinaryOp(-,Id(i),IntLiteral(1));Block([Break()])),VarDecl(x,IntType),VarDecl(num,ArrayType(IntType,1)),VarDecl(smaller,IntType),VarDecl(i,IntType),Return()]))])

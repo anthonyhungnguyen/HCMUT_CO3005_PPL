@@ -1,0 +1,20 @@
+
+                int sum(){
+                    if (!true){
+                        if (true){
+
+                        }
+                        else{
+
+                        }
+                        return 888;
+                    }
+                    else{
+                        
+                    }
+                    return 1;
+                }
+                void main(){
+                    sum();
+                }
+                

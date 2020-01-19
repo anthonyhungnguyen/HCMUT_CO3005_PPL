@@ -1,0 +1,20 @@
+
+        int fooInt(){
+            return 1;
+        }
+        
+        float fooFloat(){
+            return 1.1e-8;
+        }
+
+        void main(){ 
+            int a ;
+            float b;
+            a = -fooInt() + fooInt() - fooInt() * fooInt() / fooInt() %  fooInt();
+            b = -fooInt() + fooFloat() - fooInt() * fooFloat() / fooInt();
+            int c[100];
+            c[getInt()] = 1;
+            c[fooInt() - 1] = 1;
+            c[c[c[fooInt() - c [getInt()]]]] = fooInt() - getInt();
+        }
+        

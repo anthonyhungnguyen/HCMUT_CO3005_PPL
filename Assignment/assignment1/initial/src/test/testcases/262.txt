@@ -1,0 +1,14 @@
+
+            boolean arithmetic_sequence(float a[], int N, int k) {
+                boolean flag;
+                int i;
+                flag = true;
+                for (i = 1; i < N-1; i=i+1) {
+                    if (a[i] != a[i-1] + k) {
+                        flag =false;
+                        return flag;
+                    }
+                }
+                return flag;
+            }
+        

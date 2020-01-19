@@ -1,0 +1,10 @@
+
+         void main() {
+            string a, b;
+            a = "haha";
+            a = b;
+
+            putString(a);
+        }
+
+        

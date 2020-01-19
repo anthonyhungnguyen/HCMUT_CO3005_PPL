@@ -1,0 +1,5 @@
+
+        int  main(){
+            if (a>b) if (c>d) if (e>f) a= a+1;
+        }
+                

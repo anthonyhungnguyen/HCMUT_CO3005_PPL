@@ -1,0 +1,11 @@
+
+        int foo(int b , string c){
+            return b % 999;
+        }
+        string fee(){
+            return "PPL";
+        }
+        void main(){ 
+            foo(9999,fee(),999);
+        }
+        

@@ -1,0 +1,4 @@
+void foo(int a, int b) {
+                    sum(3,a+1);
+                    sum1();
+                }

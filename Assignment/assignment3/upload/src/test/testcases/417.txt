@@ -1,0 +1,13 @@
+
+                int foo(){
+                    int a;
+                    a = 0;
+                    if (a >= "asd"){}
+                    else {}
+                    return a;
+                }
+                int main(){
+                    foo();
+                    return 0;
+                }
+                

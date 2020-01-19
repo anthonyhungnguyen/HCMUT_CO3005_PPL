@@ -1,0 +1,7 @@
+
+        void main() {
+            string a;
+            float b;
+            a = b;
+        }
+        

@@ -1,0 +1,3 @@
+void abc() {
+				foo("asdf"[123]);
+		}

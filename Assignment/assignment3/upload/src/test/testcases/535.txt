@@ -1,0 +1,8 @@
+
+        int main(){
+            boolean test;
+            int a;
+            test = ! a < 1;
+            return a;
+        }
+        

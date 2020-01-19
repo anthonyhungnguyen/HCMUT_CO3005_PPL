@@ -1,0 +1,10 @@
+
+        int main()
+        {
+            string c;
+            for(c = "A"; c <= "Z"; c=c+1)
+               printf("%c ", c);
+
+            return 0;
+        }
+        

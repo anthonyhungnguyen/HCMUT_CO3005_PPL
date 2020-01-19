@@ -1,0 +1,11 @@
+ int main(){
+	        for(i=0;i<58;i+1){	
+		        if(count1[i]<count2[i]){
+			        ans=false;
+			        break;
+		        }
+	        }
+	        if(ans)           
+		        printString("Yes",endl);
+	        return 0;
+        } 

@@ -1,0 +1,6 @@
+
+        void main() {
+            putIntLn(3+2);
+        }
+
+        

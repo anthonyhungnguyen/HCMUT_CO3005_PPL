@@ -1,0 +1,9 @@
+
+        int main(){
+            if(i > 2)
+                if(j < 5)
+                    if(k == 0)
+                        i = 1;
+                    else
+                        j + 1;
+        } 

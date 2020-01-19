@@ -1,0 +1,6 @@
+
+                float x;
+            void changeX(){
+                x=5;
+            }
+                

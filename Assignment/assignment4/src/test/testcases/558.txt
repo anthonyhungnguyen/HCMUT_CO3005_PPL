@@ -1,0 +1,8 @@
+
+        void printSum(int a, int b) {
+            putInt(a+b);
+        }
+        void main() {
+            printSum(3,4);
+        }
+        

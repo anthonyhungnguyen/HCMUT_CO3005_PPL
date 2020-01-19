@@ -1,0 +1,18 @@
+
+                int minus(){
+                    return 1;
+                }
+                int sum(){
+                    return 2;
+                }
+                int div(){
+                    return 3;
+                }
+                int mul(){
+                    return minus();
+                }
+                void main(){
+                    sum();
+                    mul();
+                }
+                

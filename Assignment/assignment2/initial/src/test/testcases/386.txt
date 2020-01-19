@@ -1,0 +1,6 @@
+void abc() {
+				if(j == 15)
+						break;
+					if(j == 20)
+						continue;
+		}

@@ -1,0 +1,9 @@
+
+        float a;
+        void main() {
+            int b;
+            a = b = 2 - 1;
+            putBool((a<b+1.2) && (a+3>b));
+        }
+
+        

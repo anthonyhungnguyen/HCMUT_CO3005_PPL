@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType,Block([CallExpr(Id(println),[Id(sdfs)]),Block([CallExpr(Id(read),[Id(abc)])])]))])

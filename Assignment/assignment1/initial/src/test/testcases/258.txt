@@ -1,0 +1,11 @@
+
+           void replace_all(int a[], int N, int x, int y) {
+               int i;
+               for (i = 0; i < N; i=i+1) {
+                   if (a[i] == x) {
+                       a[i] = y;
+                   }
+               }
+               return count;
+           }
+        

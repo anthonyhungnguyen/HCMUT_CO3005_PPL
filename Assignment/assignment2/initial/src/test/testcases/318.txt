@@ -1,0 +1,7 @@
+
+        void main(){
+            println(sdfs);
+            {
+                read(abc);
+            }
+        } 

@@ -1,0 +1,12 @@
+
+            void replace_with_sum(int a[], int N, int x, int y) {
+                int i, k;
+                for(i = 0; i < N; i=i+1) {
+                    if ((a[i-1] + a[i]) % 10 == 0) {
+                        k = a[i-1] + a[i];
+                        a[i-1] = k;
+                        a[i] = k;
+                    }
+                }
+           }
+        

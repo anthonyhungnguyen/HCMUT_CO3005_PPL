@@ -1,0 +1,22 @@
+
+                int foo(int x, int y){
+                    int a;
+                    boolean b;
+                    int c;
+                    for (a + 1; b; c){
+                        return 999;
+                    }
+                    return 888;
+                }
+                void tired(){
+                    putIntLn(9);
+                }
+                int a(int z){
+                    tired();
+                    return 888888;
+                }
+                int main(){
+                    a(3);
+                    return 0;
+                }
+                

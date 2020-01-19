@@ -1,0 +1,12 @@
+
+        void printInt(int n) {
+            if (n > 0) {
+                printInt(n - 1);
+                putInt(n);
+            }
+        }
+
+        void main() {
+            printInt(9);
+        }
+        

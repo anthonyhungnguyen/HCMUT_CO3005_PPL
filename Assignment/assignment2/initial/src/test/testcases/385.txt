@@ -1,0 +1,6 @@
+void abc() {
+				do
+                    if(a)
+                        return 0;
+                while i;
+		}

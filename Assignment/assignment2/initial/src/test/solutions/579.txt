@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(intarr),[],ArrayTypePointer(IntType),Block([Return(CallExpr(Id(toIntArr),[IntLiteral(1),IntLiteral(2),IntLiteral(3)]))]))])

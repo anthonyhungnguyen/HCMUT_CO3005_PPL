@@ -1,0 +1,7 @@
+
+        void main() {
+            putBool(1.2>2.0);
+            putBool(2.4>2.4);
+            putBool(2.2>1.6);
+        }
+        
